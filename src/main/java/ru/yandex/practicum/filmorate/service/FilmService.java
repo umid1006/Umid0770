@@ -11,8 +11,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import static ru.yandex.practicum.filmorate.constant.FilmCheckDate.OLDEST_DATE;
-
 @Service
 public class FilmService {
 
