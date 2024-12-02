@@ -3,11 +3,8 @@ package ru.yandex.practicum.filmorate.model;
 import lombok.AccessLevel;
 import lombok.Data;
 import lombok.experimental.FieldDefaults;
-import org.junit.After;
-import ru.yandex.practicum.filmorate.constant.FilmCheckDate;
 import ru.yandex.practicum.filmorate.validation.FilmDataChecker;
 
-import javax.validation.Constraint;
 import javax.validation.constraints.*;
 import java.time.LocalDate;
 
